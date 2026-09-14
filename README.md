@@ -16,23 +16,38 @@ JARKOM_Kelompok6/
 ├── scripts/          # Skrip otomatisasi, bash, python, atau konfigurasi routing
 ├── documentation/    # Laporan, screenshot hasil testing, dan catatan kelompok
 └── README.md         # Dokumentasi proyek
-🚀 Topologi & Skenario Jaringan
-Jelaskan secara singkat mengenai skenario topologi yang digunakan pada proyek ini. Contoh:
+```
 
-Arsitektur: Menggunakan metode Routing Dinamis (OSPF) / Subnetting CIDR / VLAN.
+---
 
-Perangkat: 3 Router, 2 Switch, beberapa Client PC.
+## 🚀 Topologi & Skenario Jaringan
 
-Tujuan: Membangun komunikasi antar-subnet yang aman dan efisien dengan pembagian IP tertentu.
+*Jelaskan secara singkat mengenai skenario topologi yang digunakan pada proyek ini. Contoh:*
 
-🛠️ Cara Penggunaan / Konfigurasi
-Clone repositori ini ke perangkat lokal Anda:
+* **Arsitektur:** Menggunakan metode Routing Dinamis (OSPF) / Subnetting CIDR / VLAN.
+* **Perangkat:** 3 Router, 2 Switch, beberapa Client PC.
+* **Tujuan:** Membangun komunikasi antar-subnet yang aman dan efisien dengan pembagian IP tertentu.
 
-Bash
-git clone [https://github.com/devankarc/JARKOM_Kelompok6.git](https://github.com/devankarc/JARKOM_Kelompok6.git)
-Buka file topologi yang berada di folder topology/ menggunakan aplikasi terkait (Cisco Packet Tracer / GNS3).
+---
 
-Jalankan skrip atau konfigurasi yang ada pada folder scripts/ sesuai kebutuhan pengujian.
+## 🛠️ Cara Penggunaan / Konfigurasi
 
-📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+1. Clone repositori ini ke perangkat lokal Anda:
+```bash
+git clone https://github.com/devankarc/JARKOM_Kelompok6.git
+
+```
+
+
+2. Buka file topologi yang berada di folder `topology/` menggunakan aplikasi terkait (Cisco Packet Tracer / GNS3).
+3. Jalankan skrip atau konfigurasi yang ada pada folder `scripts/` sesuai kebutuhan pengujian.
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](https://www.google.com/search?q=LICENSE).
+
+```
+
+```
