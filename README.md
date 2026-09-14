@@ -3,9 +3,10 @@
 Repositori ini berisi dokumentasi, skrip konfigurasi, dan laporan praktikum/proyek mata kuliah Jaringan Komputer.
 
 ## 👥 Anggota Kelompok
-- **Nama Anggota 1** *(NRP - Peran)*
-- **Nama Anggota 2** *(NRP - Peran)*
-- **Nama Anggota 3** *(NRP - Peran)*
+- **Ahmad Akmal Defatra** *(5024231005)*
+- **Muhammad Fawaaz Dhawi** *(5024230152)*
+- **Devanka Raditanti Citasevi** *(5024231053)*
+- **Mohammad Rizky Ibrahim Diswarin** *(5024231055)*
 
 ---
 
