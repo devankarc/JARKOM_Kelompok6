@@ -1,0 +1,23 @@
+```gitignore
+# Folder dan file konfigurasi OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File arsip topologi mentah / temporary cache (jika ada)
+*.bak
+*.tmp
+*.swp
+
+# File log atau lingkungan virtual Python (jika menggunakan skrip Python)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.log
+
+# File sensitif / kredensial lokal
+.env
+secret.json
+credentials.yaml
